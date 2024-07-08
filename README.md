@@ -7,8 +7,17 @@ MetaBoardGame seamlessly blends the classic joy of board games with the immersiv
 
 This short video demonstrates our model's ability to identify chess pieces from video frames. You can see the model processing a sample video, recognizing different pieces, and highlighting them with bounding boxes. 
 
-[![Watch the video](https://raw.githubusercontent.com/SoroorMa/MetaBoardGame/main/Sample_Output/chess_piece_detection.mp4)]
+
+https://github.com/SoroorMa/MetaBoardGame/assets/71624743/31fa2b71-1347-4c8d-836b-255c0a120043
+
+
 
 This video showcases real-time chess piece tracking implemented in Unity. 
 
-[![Watch the video](https://raw.githubusercontent.com/SoroorMa/MetaBoardGame/main/Sample_Output/realtime_chess_piece_tracking.mp4)](https://raw.githubusercontent.com/SoroorMa/MetaBoardGame/main/Sample_Output/unity_realtime_tracking.mp4)
+
+
+https://github.com/SoroorMa/MetaBoardGame/assets/71624743/1defb069-eda6-443a-873d-1138a37724d3 
+
+https://github.com/SoroorMa/MetaBoardGame/assets/71624743/86a495bb-0280-4adb-872b-70ac35a56ee3
+
+
